@@ -25,15 +25,6 @@ Veri analitiği ve makine öğrenmesi süreçlerini finansal teknolojilerle harm
 
 ---
 
-### 📊 GitHub İstatistiklerim
-*(Görsellerin yüklenmesi birkaç dakika sürebilir)*
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arif-F-Aytkn&show_icons=true&theme=dark" alt="Arif Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif-F-Aytkn&layout=compact&theme=dark" alt="Top Langs" />
-</p>
-
----
 
 ### 📫 Bana Ulaşın
 
