@@ -1,8 +1,10 @@
-# Selam, Ben Arif Furkan Aytekin! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3131&height=200&section=header&text=Arif%20Furkan%20Aytekin&fontSize=50&animation=fadeIn&fontAlignY=38" />
+</p>
 
 ### 🚀 Veri Analisti | İstatistikçi | FinTech Meraklısı
 
-Veri analitiği, istatistiksel modelleme ve makine öğrenmesi süreçlerini finansal teknolojilerle harmanlamaya odaklanan bir **İstatistik** ve **Bilgisayar Programcılığı** öğrencisiyim. Veriyi anlamlı hikayelere dönüştürmek ve iş problemlerine veri odaklı çözümler üretmek için çalışıyorum.
+Veri analitiği, istatistiksel modelleme ve makine öğrenmesi süreçlerini finansal teknolojilerle harmanlamaya odaklanan bir **İstatistik** öğrencisi ve **Bilgisayar Programcılığı** mezunuyum. Veriyi anlamlı hikayelere dönüştürmek ve iş problemlerine veri odaklı çözümler üretmek için çalışıyorum.
 
 ---
 
@@ -17,6 +19,8 @@ Veri analitiği, istatistiksel modelleme ve makine öğrenmesi süreçlerini fin
 
 ### 💻 Teknoloji Yığınım
 
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRkcmttY2J2NWJtZnViZ2pqMzIydnAzcGw1YjdpNDBna3ZxeHVwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width="350">
+
 | Alan | Araçlar & Diller |
 | :--- | :--- |
 | **Programlama** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
@@ -24,6 +28,8 @@ Veri analitiği, istatistiksel modelleme ve makine öğrenmesi süreçlerini fin
 | **Makine Öğrenmesi** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 | **Görselleştirme**| ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black) |
 | **Araçlar** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+
+<br clear="right">
 
 ---
 
