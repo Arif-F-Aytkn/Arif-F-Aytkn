@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3131&height=200&section=header&text=Arif%20Furkan%20Aytekin&fontSize=50&animation=fadeIn&fontAlignY=38" />
 </p>
 
-### 🚀 Veri Analisti | İstatistikçi | FinTech Meraklısı
+### 🚀 Veri Analizi | İstatistik | FinTech
 
 Veri analitiği, istatistiksel modelleme ve makine öğrenmesi süreçlerini finansal teknolojilerle harmanlamaya odaklanan bir **İstatistik** öğrencisi ve **Bilgisayar Programcılığı** mezunuyum. Veriyi anlamlı hikayelere dönüştürmek ve iş problemlerine veri odaklı çözümler üretmek için çalışıyorum.
 
@@ -12,7 +12,7 @@ Veri analitiği, istatistiksel modelleme ve makine öğrenmesi süreçlerini fin
 
 - 📊 **Akademik Destek:** Gazi Üniversitesi İstatistik Bilgisayar Laboratuvarı'nda asistan olarak R, Python, SPSS ve SQL konularında teknik destek sağlıyorum.
 - 🧠 **Makine Öğrenmesi:** Sınıflandırma, regresyon ve derin öğrenme (TensorFlow) modelleri üzerine projeler geliştiriyorum.
-- 💳 **Finansal Teknolojiler:** İflas tahmini (Altman Z-Score) ve sentetik finansal veri üretimi üzerine çalışmalar yürütüyorum.
+- 💳 **Finansal Teknolojiler:** İflas tahmini (Altman Z-Score) ve sentetik finansal veri üretimi üzerine çalışmalar yürüttüm daha büyük projeler için çalışıyorum.
 - 👥 **Topluluk:** Gazi Üniversitesi Finansal Teknolojiler Topluluğu'nda (GaziFintech) kurucu üye ve Proje Ekibi Lideri olarak görev alıyorum.
 
 ---
